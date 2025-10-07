@@ -4,3 +4,4 @@ Implement the login functionality
 This is a conflicting change from feature branch
 solved
 Case 1
+Case 2
