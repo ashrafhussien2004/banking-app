@@ -1,3 +1,4 @@
+Line 2
 Line 1
 This is a change from the develop branch
 Implement the login functionality
@@ -6,3 +7,6 @@ solved
 Case 1
 Case 2
 Case 3
+Main
+Fix: patched security issue in login system
+stash test
