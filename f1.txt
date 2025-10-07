@@ -1,3 +1,4 @@
 Line 1
 Implement the login functionality
 This is a conflicting change from feature branch
+solved
