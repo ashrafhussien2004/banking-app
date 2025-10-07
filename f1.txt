@@ -1,2 +1,4 @@
 Line 1
 This is a change from the develop branch
+Implement the login functionality
+This is a conflicting change from feature branch
